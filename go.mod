@@ -1,4 +1,4 @@
-module gihub.com/olegkotsar/simpledocke
+module gihub.com/olegkotsar/simpledocker
 
 go 1.19
 
